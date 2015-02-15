@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:OECoreDebug/CoreLauncher.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "container:OpenEmu/OpenEmu.xcodeproj">
    </FileRef>
    <FileRef

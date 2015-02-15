@@ -82,3 +82,6 @@
 [submodule "Potator-Core"]
 	path = Potator-Core
 	url = https://github.com/OpenEmu/Potator-Core.git
+[submodule "OECoreDebug"]
+	path = OECoreDebug
+	url = git@github.com:cyco/OECoreDebug.git
